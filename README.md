@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Привет, я Eww1seeAsu
+### Что я делаю
+- 🤖 Telegram-боты любой сложности (aiogram, кнопки, БД)
+- 📦 Парсинг сайтов (requests, bs4, Playwright, обход блокировок)
+- ⚡ Автоматизация бизнес-процессов
 
-<!--
-**Eww1seeAsu/Eww1seeAsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Мои навыки
+🐍 Python | 🔄 Git | 💾 SQLite/PostgreSQL | 🐳 Docker (изучаю)
 
-Here are some ideas to get you started:
+### Связаться со мной
+📱 Telegram: [Eww1seeAsu] (https://t.me/Eww1seeAsu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 💡 Открыт к сотрудничеству. Пиши!
