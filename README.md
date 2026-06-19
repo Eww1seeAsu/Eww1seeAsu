@@ -6,7 +6,7 @@
 - ⚡ Автоматизация бизнес-процессов
 
 ### Мои навыки
-🐍 Python | 🔄 Git | 💾 SQLite/PostgreSQL | 🐳 Docker (изучаю)
+🐍 Python | 🔄 Git | 💾 SQLite/PostgreSQL | 🐳 Docker 
 
 ### Связаться со мной
 📱 Telegram: [@Eww1seeAsu](https://t.me/Eww1seeAsu)  
