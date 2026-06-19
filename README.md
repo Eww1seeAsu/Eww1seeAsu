@@ -3,7 +3,7 @@
 ### Что я делаю
 - 🤖 Telegram-боты любой сложности (aiogram, telebot)
 - 📦 Парсинг сайтов (requests, bs4, Playwright, обход блокировок)
-- ⚡ Автоматизация бизнес-процессов
+- ⚡ Автоматизация процессов
 
 ### Мои навыки
 🐍 Python | 🔄 Git | 💾 SQLite/PostgreSQL | 🐳 Docker 
